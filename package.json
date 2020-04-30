@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kemosabe2911/Nodejs-chatapp/issues"
   },
-  "homepage": "https://github.com/Kemosabe2911/Nodejs-chatapp#readme"
+  "homepage": "https://github.com/Kemosabe2911/Nodejs-chatapp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }

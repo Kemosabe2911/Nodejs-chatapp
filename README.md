@@ -1,2 +1,2 @@
 # Nodejs-chatapp
-A ChatApp using nodejs ad socket.io
+A ChatApp using nodejs and socket.io
